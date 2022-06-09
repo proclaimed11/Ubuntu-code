@@ -1,3 +1,4 @@
+Smaki
 
 if BUILD_LAST
 usrbin_exec_PROGRAMS += last
