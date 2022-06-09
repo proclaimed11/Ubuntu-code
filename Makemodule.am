@@ -298,3 +298,4 @@ if MAKEINSTALL_DO_SETUID
 	chmod 4755 $(DESTDIR)$(bindir)/su
 endif
 endif
+end
